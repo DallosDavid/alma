@@ -11,7 +11,11 @@ namespace alma
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            Console.ReadLine();
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
